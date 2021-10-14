@@ -5,9 +5,9 @@
 }
 
 :root {
-  --primary-color: #FFC9E7;
-  --secondary-color: #4c6ba4;
-  --tertiary-color: #39a6b2;
+  --primary-color: #f5eec2;
+  --secondary-color: #39395f;
+  --tertiary-color: #416a59;
 }
 
 body {
@@ -25,7 +25,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/pjsm.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -95,7 +95,7 @@ section {
 /* Hero Style Start */
 
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url("../images/pjsm.jpeg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -123,7 +123,7 @@ section {
 
 .hero-form {
   border: solid 3px var(--secondary-color);
-  background-color: rgba(252, 225, 56, 0.8);
+  background-color: #73a24e;
   padding: 20px;
   color: var(--secondary-color);
   width: 40%;
